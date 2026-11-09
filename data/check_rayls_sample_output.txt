@@ -1,0 +1,5 @@
+finalized  #14,139,365  0x318eeaefe36f9b230829294e06c1d453167e9ba63e76bc8bfa135880d09d7992
+latest     #14,139,365  0x318eeaefe36f9b230829294e06c1d453167e9ba63e76bc8bfa135880d09d7992
+finalized == latest in 20/20 checks
+last 1,000 blocks: 1.339 s per block, 0.673 s per round, epoch 193
+live 60 s: 44 new blocks, median gap 1.341 s
